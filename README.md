@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m a self-taught Front-end developer
 
-### Languages:
+### Technologies which I teach and use:
+<hr>
+
+<code><img src='https://cdn-icons-png.flaticon.com/512/732/732212.png?w=360' width='30px'/></code>
+<code><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' width='30px'/></code>
 <code><img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' width='30px'/></code>
 <code><img src='https://cdn.freebiesupply.com/logos/large/2x/es6-logo-png-transparent.png' width='30px'/></code>
 <code><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' width='30px'/></code>
