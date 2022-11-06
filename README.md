@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 ### Languages:
 <code><img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' width='30px'/></code>
+<code><img src='https://cdn.freebiesupply.com/logos/large/2x/es6-logo-png-transparent.png' width='30px'/></code>
+<code><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' width='30px'/></code>
+<code><img src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png' width='30px'/></code>
 
 
 - <!--
