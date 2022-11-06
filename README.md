@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact
 
 ### Connect with me:
-<code><a href='https://www.linkedin.com/in/hikmatillo-rv/'>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png' />
- </a><code>
+
+<a href='https://www.linkedin.com/in/hikmatillo-rv/' >
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png'  width='20px'/>
+</a>
+
+
 
 ### Technologies which I use:
 <hr>
