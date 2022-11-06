@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fatct 
 
 ### Connect with me:
-<a href='https://www.linkedin.com/in/hikmatillo-rv/'/>
+<a href='https://www.linkedin.com/in/hikmatillo-rv/'></a>
 
 ### Technologies which I use:
 <hr>
