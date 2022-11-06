@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m a self-taught Front-end developer
-- ⚡ Fun fatct 
+- ⚡ Fun fact
 
 ### Connect with me:
-<a href='https://www.linkedin.com/in/hikmatillo-rv/'></a>
+<code><a href='https://www.linkedin.com/in/hikmatillo-rv/'></a><code>
 
 ### Technologies which I use:
 <hr>
