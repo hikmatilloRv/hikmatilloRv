@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m a self-taught Front-end developer
+
+### Languages:
+<code><img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' width='30px'/></code>
+
+
 - <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -25,6 +30,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>Languages:</h4>
-
-<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'  width='50px'/>
