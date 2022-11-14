@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m a self-taught Front-end developer
-- ⚡ Fun fact I love to Travel
+- ⚡ Fun fact I like to Travel
 - 
 
 ### Connect with me:
