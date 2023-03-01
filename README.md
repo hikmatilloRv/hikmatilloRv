@@ -6,7 +6,7 @@
 
 Hello, I am Hikmatillo , a junior front-end engineer with a passion for JavaScript development.
 
-I began my career during my studies at [...University], where I was introduced to HTML, CSS, and JavaScript. Currently, I am working on React and Redux libraries, and have earned multiple certificates from Freecodecamp, including the JavaScript Algorithms and Data Structures certification. I have also earned several certificates from SoloLearn and have taken courses from Codecademy.
+I began my career during my studies at [...University], where I was introduced to HTML, CSS, and JavaScript. Currently, I am working on React and Redux libraries, and have earned multiple certificates from FreeCodeCamp, including the JavaScript Algorithms and Data Structures certification. I have also earned several certificates from Sololearn and have taken courses from Codecademy.
 
 Learning is important to me, and I continue to push myself to learn new technologies. I have a GitHub profile where I share my sample projects and other work. My projects on this platform, especially those related to JavaScript algorithms and data structures, have played a significant role in enhancing my coding skills.
 
