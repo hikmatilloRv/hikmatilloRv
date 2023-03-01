@@ -4,7 +4,15 @@
 
 <hr >
 
-I am Front End Developer with more than 1 years experience working with HTML, CSS, Javascript, React, and Redux.  Highly adept at both independent and collaborative projects, with an emphasis on landing page and website development 
+Hello, I am Hikmatillo , a junior front-end engineer with a passion for JavaScript development.
+
+I began my career during my studies at [...University], where I was introduced to HTML, CSS, and JavaScript. Currently, I am working on React and Redux libraries, and have earned multiple certificates from Freecodecamp, including the JavaScript Algorithms and Data Structures certification. I have also earned several certificates from SoloLearn and have taken courses from Codecademy.
+
+Learning is important to me, and I continue to push myself to learn new technologies. I have a GitHub profile where I share my sample projects and other work. My projects on this platform, especially those related to JavaScript algorithms and data structures, have played a significant role in enhancing my coding skills.
+
+If you are excited to collaborate with me, I invite you to check out my GitHub profile and contact me.
+
+Thank you.
 
 
 
