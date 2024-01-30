@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <code><img src='https://cdn.freebiesupply.com/logos/large/2x/es6-logo-png-transparent.png' width='30px'/></code>
 <code><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' width='35px'/></code>
 <code><img src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png' width='35px'/></code>
-<code><img src='https://assets.stickpng.com/images/62a79606e42d729d928b175f.png' width='35px'/></code>
+<code><img src='https://miro.medium.com/v2/resize:fit:1200/1*GmMtKznzJ1dS8sSzxzR3ow.png' width='35px'/></code>
 
 
 - <!--
